@@ -1,4 +1,4 @@
-# react-first-class
+# Aulas de React
 
 ## Criação do projeto
 
@@ -13,7 +13,7 @@ npm create vite@latest nome-do-seu-projeto
 ## Iniciar a aplicação
 
 <p>
-  Para
+  Para iniciar a aplicação, no terminal digite o seguinte comando dentro do seu projeto:
 </p>
 
 ```bash
