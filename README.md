@@ -9,3 +9,14 @@
 ```shell
 npm create vite@latest nome-do-seu-projeto
 ```
+
+## Iniciar a aplicação
+
+<p>
+  Para
+</p>
+
+```bash
+npm run dev
+```
+
