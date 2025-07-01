@@ -10,6 +10,10 @@
 npm create vite@latest nome-do-seu-projeto
 ```
 
+<p>
+  Selecione a opção React e depois Typescript.
+</p>
+
 ## Iniciar a aplicação
 
 <p>
