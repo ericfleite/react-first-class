@@ -11,7 +11,7 @@ npm create vite@latest nome-do-seu-projeto
 ```
 
 <p>
-  Selecione a opção React e depois Typescript.
+  Selecione a opção do framework React e depois a opção de variant Typescript.
 </p>
 
 ## Iniciar a aplicação
@@ -23,4 +23,8 @@ npm create vite@latest nome-do-seu-projeto
 ```bash
 npm run dev
 ```
+
+<p>
+  É possível fazer alterações a quente no projeto, sendo assim, ao alterar o projeto você pode ver a alteração no mesmo momento.
+</p>
 
