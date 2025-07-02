@@ -36,7 +36,7 @@ npm install
   Para iniciar a aplicação, no terminal digite o seguinte comando dentro do seu projeto:
 </p>
 
-```node
+```shell
 npm run dev
 ```
 
