@@ -17,6 +17,22 @@ npm create vite@latest nome-do-seu-projeto
 ## Iniciar a aplicação
 
 <p>
+  Após a criação do projeto, entre na pasta do seu projeto:
+</p>
+
+```shell
+cd nome-do-seu-projeto
+```
+
+<p>
+  Dentro da pasta do seu projeto, é necessário fazer a instalações dos pacotes:
+</p>
+
+```shell
+npm install
+```
+
+<p>
   Para iniciar a aplicação, no terminal digite o seguinte comando dentro do seu projeto:
 </p>
 
